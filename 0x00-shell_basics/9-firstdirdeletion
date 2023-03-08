@@ -1,2 +1,2 @@
 #!/bin/bash
-rmd -r /tmp/my_first_repository
+rmd -d /tmp/my_first_repository
